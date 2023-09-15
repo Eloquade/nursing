@@ -84,7 +84,7 @@ function App() {
                 The nursing department is dedicated to provide high quality and
                 equitable care services with compassion focusing on the unique
                 needs of patients and their families while maintaining the
-                safety of all and topromote a collaborative environment to
+                safety of all and to promote a collaborative environment to
                 assure specialized patient-centered care.
               </p>
             </div>
