@@ -201,6 +201,10 @@ function App() {
         </div>
       </section>
       <Footer />
+      <div class="footer">
+  <p>© 2001 - 2023 Ace Medical Center
+  </p>
+</div>
     </div>
   );
 }
